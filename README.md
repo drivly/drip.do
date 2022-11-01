@@ -1,4 +1,4 @@
-# worker.templates.do - Templates
+# Drip.do - Drip Email Sequence Management & Execution
 
 ## Getting Started
 
